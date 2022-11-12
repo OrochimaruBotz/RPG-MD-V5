@@ -55,8 +55,8 @@ global.owner = [
   ['089697488609', 'Tachibana Yuzi ×፝֟͜×', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
-global.mods = ['6289525982428'] // Want some help?
-global.prems = ['6289525982428'] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
+global.mods = ['6288804947282'] // Want some help?
+global.prems = ['6288804947282'] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
 
 /*============== API ==============*/
@@ -129,7 +129,7 @@ global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
 global.nameowner = 'ᴹᴿ᭄ Radit Peler ×፝֟͜×'
 global.umurowner = '22'
 global.asalowner = 'Amerika Serikat, New York'
-global.nomorowner = 'wa.me/6289525982428'
+global.nomorowner = 'wa.me/6288804947282'
 global.pacarowner = 'Kepo amat sih;v'
 
 /*============== TEXT ==============*/
