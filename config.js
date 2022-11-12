@@ -52,7 +52,7 @@ global.nameown = 'Tachibana Yuzi ×፝֟͜×'
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6289796488609', 'Tachibana Yuzi ×፝֟͜×', 'true']
+  ['6289796488609','6288804947282','Tachibana Yuzi ×፝֟͜×', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
