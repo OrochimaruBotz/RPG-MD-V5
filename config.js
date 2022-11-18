@@ -52,7 +52,8 @@ global.nameown = 'Tachibana Yuzi ×፝֟͜×'
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['089697488609', 'Tachibana Yuzi ×፝֟͜×', 'true']
+  ['6289697488609', 'Tachibana Yuzi ×፝֟͜×', 'true']
+  ['6288804947282', 'HumanzzZ', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -126,7 +127,7 @@ global.thumbWarn = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
 global.botintro = 'Hallo, Kenalin saya Yuki BOT Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *ᴹᴿ᭄ King Of Bear ×፝֟͜×* Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
 global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'ᴹᴿ᭄ King Of Bear ×፝֟͜×'
+global.nameowner = 'ᴹᴿ Tachibana Yuzi×፝֟͜×'
 global.umurowner = '22'
 global.asalowner = 'Amerika Serikat, New York'
 global.nomorowner = 'wa.me/6289697488609'
